@@ -73,3 +73,4 @@ header('content-type:text/html;charset=utf-8');
 	  	echo '注册失败';
 	  }
 
+echo 111;
